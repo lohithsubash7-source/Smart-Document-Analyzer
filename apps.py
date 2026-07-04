@@ -150,7 +150,7 @@ section[data-testid="stSidebar"] {
 # ==========================================
 
 client = Groq(
-    api_key="Your API KEY"
+    api_key="Your Groq API KEY"
 )
 
 # ==========================================
